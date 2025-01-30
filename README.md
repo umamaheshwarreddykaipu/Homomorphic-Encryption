@@ -27,6 +27,8 @@ The diagram illustrates a secure cloud interaction process where data owners eng
 FLOW CHART FOR ALGORITHM:
 
 ![image](https://github.com/user-attachments/assets/796da3b0-0f2f-491e-97a5-08d1c8b4bee2)
+refer the below link to view the code:
+https://github.com/umamaheshwarreddykaipu/Homomorphic-Encryption/blob/main/StringHomomorphicEncryption.java
 
 
 
